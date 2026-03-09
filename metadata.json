@@ -1,0 +1,5 @@
+{
+  "name": "StereoChem Lab",
+  "description": "Advanced conformational analysis tool for Newman and Sawhorse projections with real-time energy calculations.",
+  "requestFramePermissions": []
+}
